@@ -1,0 +1,8 @@
+C:\Users\acer\Documents\GitHub\Assignment4\RazorPagesMovie\obj\Debug\net5.0\RazorPagesMovie.csprojAssemblyReference.cache
+C:\Users\acer\Documents\GitHub\Assignment4\RazorPagesMovie\obj\Debug\net5.0\RazorPagesMovie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Documents\GitHub\Assignment4\RazorPagesMovie\obj\Debug\net5.0\RazorPagesMovie.AssemblyInfoInputs.cache
+C:\Users\acer\Documents\GitHub\Assignment4\RazorPagesMovie\obj\Debug\net5.0\RazorPagesMovie.AssemblyInfo.cs
+C:\Users\acer\Documents\GitHub\Assignment4\RazorPagesMovie\obj\Debug\net5.0\RazorPagesMovie.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\GitHub\Assignment4\RazorPagesMovie\obj\Debug\net5.0\RazorPagesMovie.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\acer\Documents\GitHub\Assignment4\RazorPagesMovie\obj\Debug\net5.0\RazorPagesMovie.RazorAssemblyInfo.cache
+C:\Users\acer\Documents\GitHub\Assignment4\RazorPagesMovie\obj\Debug\net5.0\RazorPagesMovie.RazorAssemblyInfo.cs
